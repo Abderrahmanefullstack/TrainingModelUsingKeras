@@ -40,5 +40,5 @@ The Fashion MNIST dataset consists of 70,000 grayscale images (28 × 28 pixels),
 
 ### 1. Clone this repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/TrainingModelUsingKeras.git](https://github.com/YOUR_USERNAME/TrainingModelUsingKeras.git)
+git clone https://github.com/Abderrahmanefullstack/TrainingModelUsingKeras.git
 cd TrainingModelUsingKeras
